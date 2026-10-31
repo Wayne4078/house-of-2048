@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "House of 2048",
-  "short_name": "House 2048",
-  "description": "Curling meets 2048: throw stones, merge numbers, steal the house.",
+  "name": "Curling 2048",
+  "short_name": "Curling 2048",
+  "description": "Curling meets 2048: throw stones, merge numbers, steal the house. 컬링 2048",
   "lang": "en",
   "start_url": "./",
   "scope": "./",
